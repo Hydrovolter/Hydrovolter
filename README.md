@@ -12,9 +12,9 @@ More in my portfolio! ![Portfolio](https://hydrovolter.ml)
 ## Discord
 <!-- [![Discord Server](https://discord.com/api/guilds/733146268364308532/widget.png?style=banner4)] (https://discord.com/invite/WKsemms) -->
 ![image](https://util.bruhmomentlol.repl.co/status/958298682044866631)
+
 Click if needed to update/load.
 [![Discord Logo](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/discord-icon.png)](https://discord.com/users/958298682044866631)
-^^^ User ID
 
 
 ## Socials
