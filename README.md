@@ -26,13 +26,13 @@ Click if needed to update/load.
 [![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/channel/UCOkFlZpxNsXxF0jiuhqZafg?view_as=subscriber)
 [![Reddit Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Reddit-icon.png)](https://www.reddit.com/user/Hydrovolter)
 [![Spotify Logo](https://icons.iconarchive.com/icons/bokehlicia/pacifica/64/spotify-icon.png)](https://open.spotify.com/user/3kogdp4la37u7pd7rugded814)
-[![Website](https://icons.iconarchive.com/icons/custom-icon-design/flatastic-11/64/Webpage-icon.png)](https://hydrovolter.ml)
+[![Website](https://icons.iconarchive.com/icons/custom-icon-design/flatastic-11/64/Webpage-icon.png)](https://hydrovolter.tk)
 
 Contact Me on my contact page! https://hydrovolter.ml/contact
 Or on my Discord above!
 
 ## Portfolio
-https://hydrovolter.ml/
+https://hydrovolter.tk/
 
 ## GitHub Contribution Statistics
 ![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=hydrovolter)
