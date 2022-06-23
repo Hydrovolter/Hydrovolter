@@ -3,7 +3,7 @@
 ## Short Bio
 Hey, I'm Hydro (Hydrovolter)!
 I code in Python, HTML, and Javascript. (And a bit of CSS)
-More in my portfolio! ![Portfolio](https://hydrovolter.ml)
+More in my portfolio! (Link below)
 
 ## Visitor Count
 <img src="https://profile-counter.glitch.me/hydrovolter/count.svg" />
