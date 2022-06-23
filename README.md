@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Hydrovolter, commonly known as Hydrovolt
-- 👀 I’m interested in API manipulation and usage
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m currently not looking to collaborate
-- 📫 I'm active on Discord with the user below:
-
-![image](https://util.bruhmomentlol.repl.co/status/958298682044866631)
-
-
 # Hydrovolter
 
 ## Short Bio
@@ -20,14 +11,20 @@ More in my portfolio! ![Portfolio](https://hydrovolter.ml)
 
 ## Discord
 <!-- [![Discord Server](https://discord.com/api/guilds/733146268364308532/widget.png?style=banner4)] (https://discord.com/invite/WKsemms) -->
+![image](https://util.bruhmomentlol.repl.co/status/958298682044866631)
+Click if needed to update/load.
+[![Discord Logo](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/discord-icon.png)](https://discord.com/users/958298682044866631)
+^^^ User ID
 
 
 ## Socials
 [![GitHub Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/Hydrovolter)
 [![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png)](https://twitter.com/hydrovolter)
-[![Twitch Logo](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/gnome-twitch-icon.png)](https://twitch.tv/hydrovolter)
+[![Twitch Logo](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/gnome-twitch-icon.png)](https://twitch.tv/hydrovolter)
 [![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/channel/UCOkFlZpxNsXxF0jiuhqZafg?view_as=subscriber)
-[![Reddit Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Reddit-icon.png)](https://www.reddit.com/user/Hydrovolter)
+[![Reddit Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Reddit-icon.png)](https://www.reddit.com/user/Hydrovolter)
+[![Spotify Logo](https://icons.iconarchive.com/icons/bokehlicia/pacifica/64/spotify-icon.png)](https://open.spotify.com/user/3kogdp4la37u7pd7rugded814)
+[![Website](https://icons.iconarchive.com/icons/custom-icon-design/flatastic-11/64/Webpage-icon.png)](https://hydrovolter.ml)
 
 Contact Me on my contact page! https://hydrovolter.ml/contact
 Or on my Discord above!
