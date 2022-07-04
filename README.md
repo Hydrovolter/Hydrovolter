@@ -16,7 +16,7 @@ More in my portfolio! (Link below)
 Click if needed to update/load.
 
 
-[![Discord Logo](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/discord-icon.png)](https://discord.com/users/958298682044866631)
+
 
 
 ## Socials
@@ -26,6 +26,7 @@ Click if needed to update/load.
 [![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/channel/UCOkFlZpxNsXxF0jiuhqZafg?view_as=subscriber)
 [![Reddit Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Reddit-icon.png)](https://www.reddit.com/user/Hydrovolter)
 [![Spotify Logo](https://icons.iconarchive.com/icons/bokehlicia/pacifica/64/spotify-icon.png)](https://open.spotify.com/user/3kogdp4la37u7pd7rugded814)
+[![Discord Logo](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/discord-icon.png)](https://discord.com/users/958298682044866631)
 [![Website](https://icons.iconarchive.com/icons/custom-icon-design/flatastic-11/64/Webpage-icon.png)](https://hydrovolter.tk)
 
 Contact Me on my contact page! https://hydrovolter.ml/contact
