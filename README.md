@@ -29,8 +29,7 @@ Click if needed to update/load.
 [![Discord Logo](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/discord-icon.png)](https://discord.com/users/958298682044866631)
 [![Website](https://icons.iconarchive.com/icons/custom-icon-design/flatastic-11/64/Webpage-icon.png)](https://hydrovolter.tk)
 
-Contact Me on my contact page! https://hydrovolter.ml/contact
-Or on my Discord above!
+Contact me on my website below!
 
 ## Portfolio
 https://hydrovolter.tk/
