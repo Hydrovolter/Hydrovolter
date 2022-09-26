@@ -29,12 +29,12 @@ Click if needed to update/load.
 [![Reddit Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Reddit-icon.png)](https://www.reddit.com/user/Hydrovolter)
 [![Spotify Logo](https://icons.iconarchive.com/icons/bokehlicia/pacifica/64/spotify-icon.png)](https://open.spotify.com/user/3kogdp4la37u7pd7rugded814)
 [![Discord Logo](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/discord-icon.png)](https://discord.com/users/958298682044866631)
-[![Website](https://icons.iconarchive.com/icons/custom-icon-design/flatastic-11/64/Webpage-icon.png)](https://hydrovolter.tk)
+[![Website](https://icons.iconarchive.com/icons/custom-icon-design/flatastic-11/64/Webpage-icon.png)](https://hydrovolter.xyz)
 
 Contact me on my website below!
 
 ## Portfolio
-https://hydrovolter.tk/
+https://hydrovolter.xyz/
 
 ## GitHub Contribution Statistics
 ![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=hydrovolter)
