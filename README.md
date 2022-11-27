@@ -11,9 +11,9 @@ More in my portfolio! (Link below)
 
 ## Discord
 <!-- [![Discord Server](https://discord.com/api/guilds/733146268364308532/widget.png?style=banner4)] (https://discord.com/invite/WKsemms) -->
-![image](https://util.bruhmomentlol.repl.co/status/958298682044866631)
+![image](https://util.hydrovolter.repl.co/status/958298682044866631)
 
-[Discord Server](https://discord.com/widget?id=965206866332356678&theme=dark)
+[Discord Server](https://discord.gg/ysH9hcb6ZD)
 
 Click if needed to update/load.
 
