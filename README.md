@@ -1,24 +1,20 @@
-# Hydrovolter
+# Hey, I'm Hydro <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-## Short Bio
-Hey, I'm Hydro (Hydrovolter)!
 I code in Python, HTML, and Javascript. (And a bit of CSS)
 More in my portfolio! (Link below)
 
-## Visitor Count
-<img src="https://profile-counter.glitch.me/hydrovolter/count.svg" />
-  
+[![Spotify](https://spotify.hydrovolter.com/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3kogdp4la37u7pd7rugded814)
 
 ## Discord
 <!-- [![Discord Server](https://discord.com/api/guilds/733146268364308532/widget.png?style=banner4)] (https://discord.com/invite/WKsemms) -->
-![image](https://util.hydrovolter.repl.co/status/958298682044866631)
+<!-- ![image](https://util.hydrovolter.repl.co/status/958298682044866631) -->
 
 [Discord Server](https://discord.gg/ysH9hcb6ZD)
 
 Click if needed to update/load.
 
-
-
+## Visitor Count
+<img src="https://profile-counter.glitch.me/hydrovolter/count.svg" />
 
 
 ## Socials
