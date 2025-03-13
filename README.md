@@ -3,7 +3,10 @@
 I code in Python, HTML, and Javascript. (And a bit of CSS)
 More in my portfolio! (Link below)
 
-[![Spotify](https://spotify.hydrovolter.com/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3kogdp4la37u7pd7rugded814)
+&nbsp;<div align="center">
+  [![Spotify](https://spotify.hydrovolter.com/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3kogdp4la37u7pd7rugded814)
+
+</div>
 
 ## Discord
 <!-- [![Discord Server](https://discord.com/api/guilds/733146268364308532/widget.png?style=banner4)] (https://discord.com/invite/WKsemms) -->
