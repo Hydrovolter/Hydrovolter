@@ -16,7 +16,7 @@ Languages: JavaScript, TypeScript,
            HTML, CSS, Python
 Learning: Node.js, Express, MongoDB
 Hobbies: Gaming, Coding, Music, Chess,
-           Badminton, Trading
+         Badminton, Trading
 Commits: x
 Stars: x
 Discord: @hydrovolter
