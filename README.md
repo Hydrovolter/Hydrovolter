@@ -1,5 +1,5 @@
-```zsh
-> neofetch
+```dos
+> systeminfo
 ```
 
 <img align="left" src="https://hydrovolter.com/assets/HydroSimple512.png" alt="Hydrovolter" width="320" /> 
@@ -7,8 +7,8 @@
 ```csharp
 hydrovolter@github
 -------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
+OS: Windows 11 x86_64
+Shell: cmd.exe
 Pronouns: He/Him
 Location: GB
 Frameworks: React, Tailwind CSS, Vite
