@@ -15,7 +15,7 @@ Frameworks: React, Tailwind CSS, Vite
 Languages: JavaScript, TypeScript,
            HTML, CSS, Python
 Learning: Node.js, Express, MongoDB
-Hobbies: Gardening, Cooking, Gaming
+Hobbies: Gaming, Coding, Music, Chess, Badminton, Trading
 Commits: x
 Stars: x
 Discord: @hydrovolter
