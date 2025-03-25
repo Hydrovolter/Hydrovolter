@@ -1,8 +1,3 @@
-# Hey, I'm Hydro <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
-
-I code in Python, HTML, and Javascript. (And a bit of CSS)
-More in my portfolio! (Link below)
-
 &nbsp;<div align="center">
   [![Spotify](https://spotify.hydrovolter.com/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3kogdp4la37u7pd7rugded814)
 
