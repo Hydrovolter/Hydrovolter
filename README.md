@@ -8,6 +8,29 @@ More in my portfolio! (Link below)
 
 </div>
 
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://hydrovolter.com/assets/HydroSimple512.png" alt="Hydrovolter" width="320" /> 
+
+```csharp
+hydrovolter@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: GB
+Frameworks: React, Tailwind CSS, Vite
+Languages: JavaScript, TypeScript,
+           HTML, CSS, Python
+Learning: Node.js, Express, MongoDB
+Hobbies: Gardening, Cooking, Gaming
+Commits: x
+Stars: x
+Discord: @hydrovolter
+```
+
 ## Discord
 <!-- [![Discord Server](https://discord.com/api/guilds/733146268364308532/widget.png?style=banner4)] (https://discord.com/invite/WKsemms) -->
 <!-- ![image](https://util.hydrovolter.repl.co/status/958298682044866631) -->
