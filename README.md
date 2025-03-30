@@ -5,7 +5,7 @@
 <img align="left" src="https://hydrovolter.com/assets/HydroSimple512.png" alt="Hydrovolter" width="320" /> 
 
 ```csharp
-hydrovolter@github
+me@hydrovolter.com
 -------------------------
 OS: Windows 11 x86_64
 Shell: cmd.exe
