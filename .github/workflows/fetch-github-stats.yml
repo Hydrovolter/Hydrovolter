@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '0 0 * * *' # runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -15,15 +15,19 @@ jobs:
       - name: Fetch GitHub Stats
         id: stats
         run: |
-          COMMITS=$(curl -s "https://api.github.com/users/Hydrovolter" | jq '.public_repos')
-          STARS=$(curl -s "https://api.github.com/users/Hydrovolter/repos?per_page=100" | jq '[.[] | .stargazers_count] | add')
-          echo "COMMITS=$COMMITS" >> $GITHUB_ENV
-          echo "STARS=$STARS" >> $GITHUB_ENV
+          # Fetch total commit count from all repositories
+          TOTAL_COMMITS=$(curl -s -H "Accept: application/vnd.github+json" "https://api.github.com/search/commits?q=author:Hydrovolter" | jq '.total_count')
+          
+          # Fetch all repositories and sum up stargazers_count
+          TOTAL_STARS=$(curl -s "https://api.github.com/users/Hydrovolter/repos?per_page=100" | jq '[.[] | .stargazers_count] | add')
+          
+          echo "TOTAL_COMMITS=$TOTAL_COMMITS" >> $GITHUB_ENV
+          echo "TOTAL_STARS=$TOTAL_STARS" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          sed -i "s/Commits: [0-9]\+/Commits: $COMMITS/" README.md
-          sed -i "s/Stars: [0-9]\+/Stars: $STARS/" README.md
+          sed -i "s/Commits: [0-9]\+/Commits: $TOTAL_COMMITS/" README.md
+          sed -i "s/Stars: [0-9]\+/Stars: $TOTAL_STARS/" README.md
 
       - name: Commit and push changes
         run: |
