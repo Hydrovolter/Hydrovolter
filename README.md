@@ -25,3 +25,5 @@ Discord: @hydrovolter
   [![Spotify](https://spotify.hydrovolter.com/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3kogdp4la37u7pd7rugded814)
 
 </div>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P21EN7BN)
