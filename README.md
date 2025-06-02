@@ -17,8 +17,8 @@ Languages: JavaScript, TypeScript,
 Learning: Node.js, Express, MongoDB
 Hobbies: Gaming, Coding, Music, Chess,
          Badminton, Trading
-Commits: 777
-Stars: 25
+Commits: 790
+Stars: 26
 Discord: @hydrovolter
 ```
 &nbsp;<div align="center">
