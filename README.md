@@ -18,7 +18,7 @@ Learning: Node.js, Express, MongoDB
 Hobbies: Gaming, Coding, Music, Chess,
          Badminton, Trading
 Commits: 831
-Stars: 27
+Stars: 28
 Discord: @hydrovolter
 ```
 &nbsp;<div align="center">
